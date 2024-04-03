@@ -1,0 +1,9 @@
+.main-manu a:hover{
+    background-color: green;
+    color: white!important;
+}
+
+.accordion{
+    width: 400px;
+    height: 500px;
+}
